@@ -1,4 +1,4 @@
-#!/bin/env python3
+#!/bin/env m4m.sh1v4ni
 
 import requests
 import sys, time
